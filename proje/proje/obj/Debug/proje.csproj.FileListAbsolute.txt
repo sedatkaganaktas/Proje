@@ -1,0 +1,17 @@
+C:\Users\EffecT\Desktop\projee\proje\proje\bin\Debug\proje.exe.config
+C:\Users\EffecT\Desktop\projee\proje\proje\bin\Debug\proje.exe
+C:\Users\EffecT\Desktop\projee\proje\proje\bin\Debug\proje.pdb
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.exe
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.pdb
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.AdminLogin.resources
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.EducatorLogin.resources
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.UserLogin.resources
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.sifremiunuttum.resources
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.uniteler.resources
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.unite1.resources
+C:\Users\EffecT\Desktop\projee\proje\proje\obj\Debug\proje.egitmensoru.resources
